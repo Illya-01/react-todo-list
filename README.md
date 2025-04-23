@@ -2,6 +2,10 @@
 
 A simple, responsive Todo List app built with React and Material UI.
 
+## Demo
+
+![Screenshot of the todo app with some todos](image.png)
+
 ## Features
 
 -  Add, complete, and delete tasks
